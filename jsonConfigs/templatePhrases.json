@@ -1,0 +1,42 @@
+// JavaScript source code
+{
+  "References to the previous context": [
+    "Furhter to you last email",
+    "With reference to you email",
+    "Following up on your email"
+  ],
+
+  "Requesting info": [
+    "I would very much appreciate it if you would confirm",
+    "I am writing to inquire about",
+    "I was wondering if you have any information on",
+    "Could you please tell me about",
+    "I need some info about"
+  ],
+
+  "Providing info": [
+    "Here's the info that you asked for",
+    "I would like to update you on",
+    "Here is just a quick note to inform you about",
+    "I'm writing to let you know that",
+    "We can confirm that"
+  ],
+
+  "Apologizing": [
+    "I would like to apologize for",
+    "Please accept our sincerest apologies for",
+    "I am sorry for"
+  ],
+
+  "Thanking": [
+    "Thank you for bringing this to my attention",
+    "Thank you for sharing with me",
+    "I appreciate your time/assistance"
+  ],
+
+  "Complementary endings": [
+    "Best Regards",
+    "Regards"
+  ]
+
+}
